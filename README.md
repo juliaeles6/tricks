@@ -1,29 +1,5 @@
-# README #
+# EGOI24 felkészítő tábor - Implementációk
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A kódrészletek az `examples` mappában találhatók, az előadás PDF formában elérhető a repo-ban.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Gyakorló feladatokhoz Codeforces mashup [link](https://codeforces.com/contestInvitation/75ad1e1d40748a564ae44ae907ccfd7361197d6a). A feladatok nem nehézségi sorrendben vannak.
